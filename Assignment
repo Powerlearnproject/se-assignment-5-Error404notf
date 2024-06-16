@@ -9,7 +9,8 @@ Completion: After installation, launch VS Code from the Start menu.
 
 1. Extensions: Install essential extensions like "Python" for Python development or "Live Server" for web development.
 2. Settings: Customize preferences such as theme (e.g., Dark+), font size, and keybindings (e.g., switching to Vim mode).
-3. Workspace: Set up a workspace folder for your projects to manage settings specific to each project.Refer to the screenshot labeled vscode.png
+3. Workspace: Set up a workspace folder for your projects to manage settings specific to each project.
+Refer to the screenshot labeled vscode.png
 
 
  3. 
@@ -32,7 +33,7 @@ The folder labeled cmd shows the above explanation.
 
 - Live Server**: Launches a development server with live reload capability.
 - Prettier**: Code formatter for JavaScript, TypeScript, CSS, and more.
-Refer to screenshot labeled extensions.png that illustrates the above explanation.
+Refer to the screenshot labeled extensions.png that illustrates the above explanation.
 
  6. 
 
@@ -76,7 +77,7 @@ To integrate Git with VS Code:
 1. Initialize Repository**: Open VS Code in your project folder, open the Source Control view (`Ctrl+Shift+G`), and initialize a Git repository.
 2. Commits**: Stage changes by clicking `+` next to files in the Source Control view, enter a commit message, and click the checkmark (`√`) to commit.
 3. Push to GitHub**: Push changes to GitHub by clicking the ... menu next to the branch name in the Source Control view and selecting `Push`.
- This is illustrated through the folder named sourcecomtrol
+ This is illustrated through the folder named sourcecontrol
  
 
 
