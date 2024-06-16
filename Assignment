@@ -61,5 +61,19 @@ To customize settings in VS Code:
 - Font Size**: Adjust font size via `File > Preferences > Settings` and search for `editor.fontSize`.
 - Keybindings**: Customize keybindings under `File > Preferences > Keyboard Shortcuts`.
 
+ 9. 
+ Debugging in VS Code:
+To set up and start debugging:
 
+1. Setup**: Install a debugger extension like `Debugger for Chrome` or `Python`.
+2. Configuration**: Create a `launch.json` file in the `.vscode` folder and configure debugging settings.
+3. Start Debugging**: Set breakpoints in your code and start debugging using `F5`.
+
+ 10. 
+ Using Source Control:
+To integrate Git with VS Code:
+
+1. Initialize Repository**: Open VS Code in your project folder, open the Source Control view (`Ctrl+Shift+G`), and initialize a Git repository.
+2. Commits**: Stage changes by clicking `+` next to files in the Source Control view, enter a commit message, and click the checkmark (`√`) to commit.
+3. Push to GitHub**: Push changes to GitHub by clicking the ... menu next to the branch name in the Source Control view and selecting `Push`.
 
