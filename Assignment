@@ -1,0 +1,65 @@
+1. 
+
+Visit the [Visual Studio Code download page](https://code.visualstudio.com/Download) and click on the Windows download button.
+Installation: Once downloaded, run the installer.
+Setup: Follow the installation prompts. You may need to approve permissions or allow the installer to make changes.
+Completion: After installation, launch VS Code from the Start menu. 
+
+2. 
+
+1. Extensions: Install essential extensions like "Python" for Python development or "Live Server" for web development.
+2. Settings: Customize preferences such as theme (e.g., Dark+), font size, and keybindings (e.g., switching to Vim mode).
+3. Workspace: Set up a workspace folder for your projects to manage settings specific to each project.Refer to the screenshot labeled vscode.png
+
+
+ 3. 
+
+1. Activity Bar**: Provides quick access to different views like Explorer, Search, Source Control, and Extensions.
+2. Side Bar**: Contains views like Explorer (file navigator), Search (search within files), and Source Control (Git integration).
+3. Editor Group**: Displays open files as tabs within the editor.
+4. Status Bar**: Shows information about the current project and Git status.
+
+ 4. 
+
+The Command Palette in VS Code is accessed by pressing `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac). It allows performing tasks like:
+
+- Running commands (e.g., "Open File", "Git: Commit", "Format Document").
+The folder labeled cmd shows the above explanation.
+
+ 5. 
+
+ Extensions enhance VS Code with additional features. Users can find, install, and manage extensions through the Extensions view (`Ctrl+Shift+X`). Essential extensions for web development include:
+
+- Live Server**: Launches a development server with live reload capability.
+- Prettier**: Code formatter for JavaScript, TypeScript, CSS, and more.
+Refer to screenshot labeled extensions.png that illustrates the above explanation.
+
+ 6. 
+
+ Integrated Terminal:
+To open the integrated terminal in VS Code, use `Ctrl+`` (backtick) or go to `View > Terminal`. Advantages include:
+
+- Seamless integration within the VS Code interface.
+- Direct access to CLI commands without leaving the editor.
+- Ability to run build scripts, Git commands, and server processes.
+
+ 7. 
+  
+To manage files and folders in VS Code:
+
+- Creating**: Right-click in the Explorer view and choose `New File` or `New Folder`.
+- Opening**: Double-click on a file to open it in the editor.
+-  Navigation**: Use the Explorer view to browse files and folders. Switch between open files using tabs or `Ctrl+Tab`.
+The screenshot labeled file.png provides the above statements.
+
+ 8. 
+
+Settings and Preferences:
+To customize settings in VS Code:
+
+- Theme**: Go to `File > Preferences > Color Theme` to change the color scheme.
+- Font Size**: Adjust font size via `File > Preferences > Settings` and search for `editor.fontSize`.
+- Keybindings**: Customize keybindings under `File > Preferences > Keyboard Shortcuts`.
+
+
+
